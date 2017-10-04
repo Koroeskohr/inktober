@@ -76,6 +76,10 @@ aframe-particle-system-component@^1.0.8:
   version "1.0.10"
   resolved "https://registry.yarnpkg.com/aframe-particle-system-component/-/aframe-particle-system-component-1.0.10.tgz#dc2174072f4ef7d1757a1bfd3d86be4e8768bb30"
 
+aframe-passthrough-component@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/aframe-passthrough-component/-/aframe-passthrough-component-1.0.0.tgz#22a772455a94d17e8a7cdb0a19260440275c6f31"
+
 aframe-react@^4.0.x:
   version "4.3.0"
   resolved "https://registry.yarnpkg.com/aframe-react/-/aframe-react-4.3.0.tgz#43eba68be4a1e88830aac404e90ac033945fbf54"
